@@ -1,7 +1,7 @@
 # Bijesh-repo
 ## jecc
 ### Me
-![jyothi](**https://www.jecc.ac.in/**)
+[jyothi](https://www.jecc.ac.in/)
 
 *Giridhar*
 
