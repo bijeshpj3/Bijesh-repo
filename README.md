@@ -1,6 +1,6 @@
 # Bijesh-repo
 ## jecc
 ### Me
-**www.bijesh.com**
+**https://www.jecc.ac.in/**
 
 *Giridhar*
